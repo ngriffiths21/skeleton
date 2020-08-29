@@ -14,8 +14,7 @@ as well as a lab notebook that is built with
 
 ## Installation
 
-You can install the released version of skeleton from
-[CRAN](https://CRAN.R-project.org) with:
+You can install from GitHub with:
 
 ``` r
 devtools::install_github("ngriffiths21/skeleton")
