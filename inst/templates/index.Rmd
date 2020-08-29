@@ -1,0 +1,16 @@
+---
+title: "Lab notebook"
+output:
+  bookdown::gitbook:
+    self_contained: no
+    lib_dir: "notebook_assets"
+    split_by: none
+    config:
+      search: no
+      info: no
+      sharing: no
+---
+
+# Introduction
+
+<!-- list important pages, project description, etc -->

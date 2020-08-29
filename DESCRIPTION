@@ -1,0 +1,16 @@
+Package: skeleton
+Type: Package
+Title: Data Analysis Skeleton With Drake and Bookdown
+Version: 0.1.0
+Authors@R: person("Nicholas", "Griffiths", email = "ngriffiths21@gmail.com",
+                  role = c("aut", "cre"))
+Description: Provides a function to set up a data analysis skeleton, which
+    includes a drake pipeline, a lab notebook using bookdown, and a typical
+    directory structure.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Imports: 
+    renv,
+    usethis
+RoxygenNote: 7.1.1
